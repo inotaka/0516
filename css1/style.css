@@ -54,6 +54,7 @@
   opacity: 0.8;
   width: 100%;
   text-align: center;
+  margin: 0;
 }
 .l-header__right--link-sp {
   text-decoration: none;
